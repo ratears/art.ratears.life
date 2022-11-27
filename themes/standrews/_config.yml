@@ -16,9 +16,9 @@ default_cover_image: images/default.jpg
 google_analytics:
 
 # Social Accounts
-email_url: ratears.life@outlook.com
+email_url: ratears@163.com
 weixin_url: https://cdn.jsdelivr.net/gh/sonzonzy/image-hosting@main/blog-img-bed/4a961d5ae9082c7da23b73faa24862b.5q085oeibw00.webp
-blog_url: dev.ratears.life
+blog_url: https://ratears.gitee.io/
 # twitter_url: https://twitter.com/?lang=en
 # facebook_url: https://www.facebook.com/
 # instagram_url: https://www.instagram.com/
